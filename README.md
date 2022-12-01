@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mya-Certossi
+- 👀 I’m interested in video games and building my career in UX!
+- 🌱 I’m currently learning HTML, CSS, and JavaScript in my education @ Wilfrid Laurier University
+- 📫 Reach me at cert4650@mylaurier.ca
